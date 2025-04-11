@@ -10,6 +10,5 @@ const person = {
   country: 'bangladesh',
 };
 
-const{name,age,country,friends}=person;
+const { name, age, country, friends } = person;
 console.log(friends);
-
